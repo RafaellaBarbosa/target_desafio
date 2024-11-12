@@ -1,0 +1,39 @@
+{
+
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Desafio 1",
+            "request": "launch",
+            "type": "dart",
+            "program": "${workspaceFolder}/lib/desafio1.dart"
+    
+          },
+          {
+            "name": "Desafio 2",
+            "request": "launch",
+            "type": "dart",
+            "program": "${workspaceFolder}/lib/desafio2.dart"
+          },
+          {
+            "name": "Desafio 3",
+            "request": "launch",
+            "type": "dart",
+            "program": "${workspaceFolder}/lib/desafio3.dart"
+          },
+          {
+            "name": "Desafio 4",
+            "request": "launch",
+            "type": "dart",
+            "program": "${workspaceFolder}/lib/desafio4.dart"
+          },
+          {
+            "name": "Desafio 5",
+            "request": "launch",
+            "type": "dart",
+            "program": "${workspaceFolder}/lib/desafio5.dart"
+          }
+        
+      
+    ]
+}
